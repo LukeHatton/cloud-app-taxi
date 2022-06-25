@@ -98,6 +98,8 @@
         </dependencies>
     </dependencyManagement>
 
+    <!-- parent近作依赖管理使用 -->
+    <packaging>pom</packaging>
     <build>
         <plugins>
             <plugin>
